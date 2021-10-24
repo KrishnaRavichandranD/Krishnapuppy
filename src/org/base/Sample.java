@@ -81,6 +81,9 @@ public class Sample {
 	}
 	
 		
+	}private void tc01() {
+		System.out.println("jgf");
+
 	}
 	
 	}
